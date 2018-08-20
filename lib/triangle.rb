@@ -1,5 +1,5 @@
 class Triangle
- 
+
  def initialize(length_a, length_b, length_c)
   @length_a = length_a
   @length_b = length_b
@@ -21,8 +21,8 @@ end
       :scalene
     end
 
-   
-  
+
+
 
     end
 
